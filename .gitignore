@@ -1,0 +1,12 @@
+# Arquivos de pacotes do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Ambiente virtual
+venv/
+env/
+.venv/
