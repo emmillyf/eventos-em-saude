@@ -24,10 +24,10 @@
 <li><strong>Python 3</strong></li>        
 <li>Bibliotecas:
             <ul>
-                <li><code>Selenium</code> (Automação de navegador)</li>
-                <li><code>Webdriver-manager</code> (Gerenciar drivers) 
-                <li><code>Requests</code> (Download de arquivos)</li>
-                <li><code>Zipfile</code> (Compactação dos PDFs)</li>
+                <li><code>Selenium</code> (automação de navegador)</li>
+                <li><code>Webdriver-manager</code> (gerenciar drivers) 
+                <li><code>Requests</code> (download de arquivos)</li>
+                <li><code>Zipfile</code> (compactação dos PDFs)</li>
             </ul>
         </li>
 </ul>
