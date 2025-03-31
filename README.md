@@ -22,11 +22,15 @@
 <h3>🛠️ Tecnologias Utilizadas</h3>
 <ul>
 <li><strong>Python 3</strong></li>        
-<li><strong>Selenium</strong> - Automação de navegador</li>
-<li><strong>Requests</strong> - Download de arquivos</li>
- <li><strong>Zipfile</strong> - Compactação dos PDFs</li>
+<li>Bibliotecas:
+            <ul>
+                <li><code>Selenium</code> (Automação de navegador)</li>
+                <li><code>Webdriver-manager</code> (Gerenciar drivers) 
+                <li><code>Requests</code> (Download de arquivos)</li>
+                <li><code>Zipfile</code> (Compactação dos PDFs)</li>
+            </ul>
+        </li>
 </ul>
-
 <h3>📦 Dependências</h3>
 <pre><code>pip install selenium requests webdriver-manager</code></pre>
 <p>Ou instale a partir do arquivo de requisitos:</p>
